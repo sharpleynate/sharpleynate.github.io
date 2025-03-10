@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@shadcn/ui": "^0.2.0",
+    "@shadcn/ui": "0.1.8"
     "autoprefixer": "^10.4.12",
     "framer-motion": "^10.12.16",
     "lucide-react": "^0.288.0",
